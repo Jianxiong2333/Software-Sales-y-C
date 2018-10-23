@@ -14,4 +14,29 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Machinecode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Md5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Rsa.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckDebug.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Getapi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Base64.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
